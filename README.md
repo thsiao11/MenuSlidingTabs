@@ -1,3 +1,3 @@
 # MenuSlidingTabs
 
-Sample app that contains menu drop down and multiple tabbed in the Home page.
+Sample app that contains menu drop down and multiple tabs in the Home page.
